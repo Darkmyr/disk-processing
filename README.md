@@ -1,12 +1,25 @@
 # Ripping Disks
 
+## 1st Time Setup
+
+1. Download [MakeMKV](https://www.makemkv.com/)
+    1. if ripping BluRays you'll need a license. This is [free and can be found here](https://forum.makemkv.com/forum/viewtopic.php?t=1053) while MakeMKV is in Beta
+1. In MakeMKV
+    - Click the Wrench Icon
+    - Click the "General" Tab
+    - Check the box for "Expert Mode" (this will let you edit the name of the output files)
+
 ## Common Steps
 
-1. Download [MakeMKV](https://www.makemkv.com/download/Setup_MakeMKV_v1.17.7.exe)
-    1. if ripping BluRays you'll need a license. This is [free](https://forum.makemkv.com/forum/viewtopic.php?t=1053) in Beta
-1. Turn on Expert Mode (this will let you edit the name of the output)
-1. Locate your title on IMDB in the format `Title (Year)`
-    - Example: [Firefly (2002)](https://www.google.com/search?q=firefly+site%3Aimdb.com&rlz=1C1ONGR_enUS1045US1045&oq=firefly+site%3Aimdb.com&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0MDU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+1. Locate what you plan to extract from a disk on one of
+    - TMDB (The Movie DB)
+    - TVDB (Television DB)
+    - IMDB (Internet Movie Database)
+1. Pay attention to the Title and Year.
+    - TV Show Example:
+        - Firefly (2002) [TVDB](https://www.thetvdb.com/series/firefly) [IMDB](https://www.imdb.com/title/tt0303461/)
+    - Movie Example:
+        - Serenity (2005) [TMDB](https://www.themoviedb.org/movie/16320-serenity?language=en-US) [IMDB](https://www.imdb.com/title/tt0379786/)
 
 ## Multi-Disk TV Show
 
