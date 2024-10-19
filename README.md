@@ -20,7 +20,7 @@
         - Firefly (2002) [TVDB](https://www.thetvdb.com/series/firefly) [IMDB](https://www.imdb.com/title/tt0303461/)
     - Movie Example:
         - Serenity (2005) [TMDB](https://www.themoviedb.org/movie/16320-serenity?language=en-US) [IMDB](https://www.imdb.com/title/tt0379786/)
-1. Move on to [TV Show](/#tv-Show) or [Movie](/#movie) instructions. (Click the link to jump there)
+1. Move on to [TV Show](#tv-Show) or [Movie](#movie) instructions. (Click the link to jump there)
 
 ## TV Show
 
